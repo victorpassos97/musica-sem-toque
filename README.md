@@ -25,3 +25,8 @@ Ligação dos pinos
 | XCL | NC |
 | ADD | NC |
 | INT | NC |
+
+Comando para verificar a posição da conexão
+```
+$ sudo i2cdetect -y 1
+```
